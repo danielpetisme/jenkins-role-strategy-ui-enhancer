@@ -29,7 +29,7 @@ Role Strategy's UI.
 ##Installation
 
 1. Install [Greasemonkey]()
-2. Click on the link [INSTALL LINK]()
+2. Click on the link [Install Jenkins Role Strategy UI Enhancer](https://github.com/danielpetisme/jenkins-role-strategy-ui-enhancer/raw/master/jenkins-role-strategy-ui-enhancer/jenkins-role-strategy-ui-enhancer.user.js)
 3. A Greasemonkey dialong should poped-up.
 4. Click on install
 5. Go to your Jenkins and enjoy!!
