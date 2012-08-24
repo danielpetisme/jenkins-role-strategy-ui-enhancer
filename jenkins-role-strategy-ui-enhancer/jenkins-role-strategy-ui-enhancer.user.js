@@ -8,7 +8,7 @@
 /*
  * The MIT License
  * 
- * Copyright (c) 2011, Manufacture Francaise des Pneumatiques Michelin, Daniel Petisme
+ * Copyright (c) 2012, Manufacture Francaise des Pneumatiques Michelin, Daniel Petisme
  * 
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal

@@ -14,7 +14,7 @@ searched a temporal workaround.
 ##Solution
 
 Basically, I searched a way to display the table cell coordinates (column/row headers)
-in a tooltip when the user's mouse will be hover a that cell. 
+in a tooltip when the user's mouse will be over that cell. 
 
 Greasemonkey is a well-known Firefox/Chrome extension which permits to develop
 Javascript to customize the Web pages behaviors.
