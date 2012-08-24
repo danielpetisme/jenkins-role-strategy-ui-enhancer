@@ -6,7 +6,7 @@ The [Role Strategy Plugin allows](https://wiki.jenkins-ci.org/display/JENKINS/Ro
 permissions with a role based mecahism.
 
 The plugin's UI was not initial design to support a large set of users/roles. As 
-detailled in this [Jenkins Jira ticket](), the role assignation can be quickly a nightmare.
+detailled in the Jenkins Jira Ticket [JENKINS-8075](https://issues.jenkins-ci.org/browse/JENKINS-8075), the role assignation can be quickly a nightmare.
 
 Since there is no scheduled released of this plugins for the coming months, I 
 searched a temporal workaround.
@@ -24,11 +24,11 @@ Role Strategy's UI.
 
 ##Screenshot
 
-![jenkins-role-strategy-ui-enhancer screenshot](url_de_l'image "jenkins-role-strategy-ui-enhancer screenshot")
+![jenkins-role-strategy-ui-enhancer screenshot](https://issues.jenkins-ci.org/secure/attachment/22359/jenkins-role-strategy-ui-enhancer_screenshot_00.png "jenkins-role-strategy-ui-enhancer screenshot")
 
 ##Installation
 
-1. Install [Greasemonkey]()
+1. Install Greasemonkey - [Firefox extension](https://addons.mozilla.org/fr/firefox/addon/greasemonkey/) [Chrome extension](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 2. Click on the link [Install Jenkins Role Strategy UI Enhancer](https://github.com/danielpetisme/jenkins-role-strategy-ui-enhancer/raw/master/jenkins-role-strategy-ui-enhancer/jenkins-role-strategy-ui-enhancer.user.js)
 3. A Greasemonkey dialong should poped-up.
 4. Click on install
