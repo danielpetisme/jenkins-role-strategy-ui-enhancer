@@ -20,7 +20,7 @@ Greasemonkey is a well-known Firefox/Chrome extension which permits to develop
 Javascript to customize the Web pages behaviors.
 
 So, I developed the jenkins-role-strategy-ui-enhancer.js script to enhance the
-Role Strategy's UI.
+Role Strategy's UI. The script will display a tooltip when the mouse is over the checkbox.
 
 ##Screenshot
 
@@ -40,7 +40,7 @@ Role Strategy's UI.
 
 >The MIT License
 >
->Copyright (c) 2011, Manufacture Francaise des Pneumatiques Michelin, Daniel Petisme
+>Copyright (c) 2012, Manufacture Francaise des Pneumatiques Michelin, Daniel Petisme
 >
 >Permission is hereby granted, free of charge, to any person obtaining a copy
 >of this software and associated documentation files (the "Software"), to deal
